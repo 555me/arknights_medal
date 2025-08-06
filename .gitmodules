@@ -1,0 +1,3 @@
+[submodule "abo"]
+	path = abo
+	url = https://github.com/555me/hycdn
